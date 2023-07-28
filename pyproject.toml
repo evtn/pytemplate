@@ -2,11 +2,11 @@
 name = "modulename"
 version = "0.1.0"
 description = ""
-authors = ["Dmitry Gritsenko <modulename@evtn.ru>"]
+authors = ["Dmitry Gritsenko <modulename@evtn.me>"]
 license = "MIT"
 readme = "README.md"
-repository = "https://github.com/evtn/modulename"
-homepage = "https://github.com/evtn/modulename"
+repository = "https://github.com/username/modulename"
+homepage = "https://github.com/username/modulename"
 keywords = []
 
 [tool.poetry.dependencies]
