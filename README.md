@@ -20,7 +20,8 @@ This is a great template README.
         -   You may want to write the actual tests
         -   If you don't want Coveralls integration, just remove the `Coveralls Update` step altogether
         -   Check `python-version` matrix and edit if you want a different version list
--   Stub module folder
+
+## Stub module folder
 
 - Includes an empty `__init__.py` (wow!)
 - Includes an empty `py.typed` file so that typecheckers treat your package as typed ([see PEP 561](https://peps.python.org/pep-0561/#packaging-type-information))
