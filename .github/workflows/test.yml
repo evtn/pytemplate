@@ -55,8 +55,7 @@ jobs:
       - name: Test
         run: poetry run coverage run --include "modulename/*" -m pytest test/
 
-      - name: Coveralls update
-
+      - name: Coveralls Update
         run: coveralls --service=github
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
