@@ -18,7 +18,7 @@ This is a great template README.
         -   You may want to remove `--disallow-any-expr` if you don't want errors on `Any`
     -   `Run Tests` runs tests from `test` on several Python versions folder and pushes the coverage data to Coveralls
         -   You may want to write the actual tests
-        -   If you don't want Coveralls integration, just remove the `Coveralls Update` step altogether
+        -   If you don't want Coveralls integration, just remove the `Coveralls Update` step altogether. Otherwise, ***check out https://docs.coveralls.io/index*** to set up the integration.
         -   Check `python-version` matrix and edit if you want a different version list
 
 ## Stub module folder
